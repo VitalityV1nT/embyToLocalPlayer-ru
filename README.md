@@ -60,7 +60,7 @@
 
 ### 1. Скачивание и распаковка
 
-Перейдите в раздел [Releases](https://github.com/VitalityV1nT/embyToLocalPlayer/releases) и скачайте архив: `etlp-python-embed-win32.zip`
+Перейдите в раздел [Releases](https://github.com/VitalityV1nT/embyToLocalPlayer-ru/releases) и скачайте архив: `etlp-python-embed-win32.zip`
 
 Распакуйте архив в удобное место (рекомендуется использовать путь без кириллицы и специальных символов).
 
@@ -88,7 +88,7 @@
 ### 3. Установка Tampermonkey-скрипта
 
 1. Установите расширение **Tampermonkey** для своего браузера или используйте совместимый аналог (подробнее на странице оригинального проекта).
-2. Установите скрипт: [embyToLocalPlayer.user.js](https://raw.githubusercontent.com/VitalityV1nT/embyToLocalPlayer/refs/heads/main/user_script/embyToLocalPlayer.user.js).
+2. Установите скрипт: [embyToLocalPlayer.user.js](https://raw.githubusercontent.com/VitalityV1nT/embyToLocalPlayer-ru/refs/heads/main/user_script/embyToLocalPlayer.user.js).
 3. После установки обновите страницу Jellyfin.
 
 ### 4. Проверка работы
@@ -127,7 +127,8 @@
 
 ## Авторство и условия распространения
 
-Данный проект является форком [kjtsune/embyToLocalPlayer.](https://github.com/kjtsune/embyToLocalPlayer). Python-часть программы используется без изменений, Tampermonkey-скрипт и конфигурация модифицированы и адаптированы в рамках данного форка. 
+Данный проект является форком [kjtsune/embyToLocalPlayer.](https://github.com/kjtsune/embyToLocalPlayer)  
+Python-часть программы используется без изменений, Tampermonkey-скрипт и конфигурация модифицированы и адаптированы в рамках данного форка. 
 
 Данный форк создан преимущественно для личного использования и распространяется «как есть» (AS IS).
 
