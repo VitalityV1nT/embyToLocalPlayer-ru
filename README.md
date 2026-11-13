@@ -87,9 +87,10 @@
 
 ### 3. Установка Tampermonkey-скрипта
 
-1. Установите расширение **Tampermonkey** для своего браузера или используйте совместимый аналог (подробнее на странице оригинального проекта).
-2. Установите скрипт: [embyToLocalPlayer.user.js](https://raw.githubusercontent.com/VitalityV1nT/embyToLocalPlayer-ru/refs/heads/main/user_script/embyToLocalPlayer.user.js).
-3. После установки обновите страницу Jellyfin.
+1. Установите расширение [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) или используйте совместимый аналог (возможно потребуется включить режим разработчика). [Подробнее на странице оригинального проекта](https://github.com/kjtsune/embyToLocalPlayer#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E).
+2. Если ранее был установлен оригинальный скрипт, удалите его.
+3. Установите скрипт: [embyToLocalPlayer.user.js](https://raw.githubusercontent.com/VitalityV1nT/embyToLocalPlayer-ru/refs/heads/main/user_script/embyToLocalPlayer.user.js).
+4. После установки обновите страницу Jellyfin.
 
 ### 4. Проверка работы
 
