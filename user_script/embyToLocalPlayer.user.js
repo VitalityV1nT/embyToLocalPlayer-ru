@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         embyToLocalPlayer
 // @namespace    https://github.com/VitalityV1nT/embyToLocalPlayer-ru
-// @version      2026.11.14
+// @version      2026.11.15
 // @description  Воспроизведение во внешнем плеере и обновление прогресса воспроизведения для Jellyfin. Форк kjtsune/embyToLocalPlayer.
 // @author       VitalityV1nT
 // @match        *://*/web/index.html*
